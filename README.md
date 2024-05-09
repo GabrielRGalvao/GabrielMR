@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Estudante dedicado de Desenvolvimento de Software com paixão por tecnologia e resolução de problemas. <strong>Sua stack</strong>.<br>
+
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: **Python, JavaScript.**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **Python, HTML, CSS, JavaScript.**
 </p>
 
 <p align="left">
@@ -18,9 +18,11 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="#" title="gabrielgalvao05@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="#" title="www.linkedin.com/in/
+gabrielmrgalvao
+">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
